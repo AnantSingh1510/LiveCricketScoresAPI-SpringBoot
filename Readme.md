@@ -23,7 +23,7 @@ To get started with the CricBuzz API, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/LiveCricketScoresAPI-WebScraping-SpringBoot.git
+   git clone https://github.com/AnantSingh1510/LiveCricketScoresAPI-WebScraping-SpringBoot.git
    ```
 2. Set up the database by running the SQL scripts provided.
 3. Build and run the project in your preferred IDE.
